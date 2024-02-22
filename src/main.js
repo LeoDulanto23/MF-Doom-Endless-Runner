@@ -1,7 +1,7 @@
 //Name: Leonardo Dulanto
 //Title: MF Doom Endless Runner
 //Hours Spent: 30+ hrs
-//Creative tilt justification:
+//Creative tilt justification: I tried to recreate an endless runner with arcade styling...
 //Date: 2/11/24
 
 "use strict"
